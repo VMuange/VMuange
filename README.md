@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmuange" alt="vmuange" /></a> </p>
 
-<p align="left"> <a href="[https://twitter.com/victor muange](https://twitter.com/home)" target="blank"><img src="https://img.shields.io/twitter/follow/victor muange?logo=twitter&style=for-the-badge" alt="victor muange" /></a> </p>
+<p align="left"> <a href="https://twitter.com/victor muange" target="blank"><img src="https://img.shields.io/twitter/follow/victor muange?logo=twitter&style=for-the-badge" alt="victor muange" /></a> </p>
 
 - 🔭 I’m currently working on [Google Data Analytics capstone project](https://github.com/VMuange/Cyclistic-Project-with-Python)
 
